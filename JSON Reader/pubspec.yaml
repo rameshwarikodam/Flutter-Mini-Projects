@@ -1,5 +1,5 @@
-name: click_counter
-description: A new Flutter project.
+name: Json reader
+description: A new Flutter project which reads provided json.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
